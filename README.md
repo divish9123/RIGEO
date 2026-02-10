@@ -1,5 +1,7 @@
 # Task Scheduling in Fog Computing
 
+[![arXiv](https://img.shields.io/badge/arXiv-2509.07378-b31b1b.svg)](https://arxiv.org/abs/2509.07378)
+
 This repository contains a comparative study of various optimization algorithms for task scheduling in fog computing environments, focusing on energy efficiency, response time, deadline satisfaction, and cost optimization.
 
 ## Table of Contents
